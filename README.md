@@ -22,12 +22,19 @@
 </table>
 
 ---
+
+<table align="center">
 <h3 align="center">My Statistics:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviduravishanhasaranga&show_icons=true&locale=en&layout=compact" alt="kaviduravishanhasaranga" /></p>
-
+<tr border="none">
+<td width="50%" align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaviduravishanhasaranga&show_icons=true&locale=en" alt="kaviduravishanhasaranga" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviduravishanhasaranga&" alt="kaviduravishanhasaranga" /></p>
+</td>
+<td>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaviduravishanhasaranga&show_icons=true&locale=en&layout=compact" alt="kaviduravishanhasaranga" /></p>
+</td>
+</tr>
+</table>
 
 ---
 
