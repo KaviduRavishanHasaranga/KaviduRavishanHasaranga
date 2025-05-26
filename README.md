@@ -2,12 +2,14 @@
 <h1 align="center">Hi 👋, I'm Kavidu Ravishan Hasaranga</h1>
 <h3 align="center">💻 Software Engineering Undergraduate | 👨‍💻 Full-Stack Developer | 🧠 Problem Solver</h3>
 
-<h4>My collaborative works and contributions:</h4>
+<h4>My notable collaborative works and contributions:</h4>
   
 - 👯 [JSP Servlet Student Management System](https://github.com/tharindu-nimesh/student-management-system)
 - 👯 [PHP Gems Selling Website](https://github.com/KaviduRavishanHasaranga/Web_Application_Final_Project_Group-R) + [Admin Dashboard](https://github.com/KaviduRavishanHasaranga/Admin-Dashboard-Group-R)
 - 🌱 Currently learning [Java Frameworks]()
 - 📫 Reach me at: [**kaviduravishanhasaranga@gmail.com**](mailto:kaviduravishanhasaranga@gmail.com)
+
+<h4 align="center">Feel free to explore my <a href="https://github.com/KaviduRavishanHasaranga?tab=repositories">GitHub repositories</a> for more projects.</h4>
 
 ---
 
