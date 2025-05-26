@@ -42,19 +42,38 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/kaviduhasaranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaviduhasaranga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kavidurhasaranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavidurhasaranga" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kaviduhasaranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaviduhasaranga" height="30" width="40" /></a>
-<a href="https://discord.gg/1357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1357" height="30" width="40" /></a>
+<a href="https://twitter.com/kaviduhasaranga"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/kavidurhasaranga"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.hackerrank.com/kaviduhasaranga"><img src="" /></a>
+<a href="https://discord.gg/1357"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,mysql,mongodb,c,java,vscode,idea,spring,git,github,arduino,figma,ps,ai,linux,ubuntu,kali" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>&nbsp;
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a>&nbsp;
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>&nbsp;
 </p>
+
 
 ---
