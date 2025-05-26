@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://twitter.com/kaviduhasaranga"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://linkedin.com/in/kavidurhasaranga"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.hackerrank.com/kaviduhasaranga"><img src="icons\Hackerrank-Dark.svg" width="48"/></a>
+<a href="https://www.hackerrank.com/kaviduhasaranga"><img src="icons\Hackerrank-Light.svg" width="48"/></a>
 <a href="https://discord.gg/1357"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
