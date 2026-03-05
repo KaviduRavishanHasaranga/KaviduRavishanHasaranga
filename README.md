@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kavidu Ravishan Hasaranga</h1>
 <h3 align="center">💻 Software Engineering Undergraduate | 👨‍💻 Full-Stack Developer | 🧠 Problem Solver</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+
 <h4>My notable collaborative works and contributions:</h4>
   
 - 👯 [JSP Servlet Student Management System](https://github.com/tharindu-nimesh/student-management-system)
