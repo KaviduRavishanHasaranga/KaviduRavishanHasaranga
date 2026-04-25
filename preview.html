@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>README Preview – Kavidu Ravishan Hasaranga</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg-primary: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-card: #21262d;
+      --border-color: #30363d;
+      --text-primary: #c9d1d9;
+      --text-secondary: #8b949e;
+      --accent-cyan: #6AD3F7;
+      --accent-purple: #A78BFA;
+      --accent-gold: #FFD700;
+      --accent-green: #3fb950;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    .github-container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 0;
+      background: var(--bg-primary);
+    }
+    /* Header banner */
+    .header-banner { width: 100%; display: block; }
+    .header-banner img { width: 100%; display: block; }
+
+    /* Typing SVG section */
+    .typing-section { text-align: center; padding: 20px 0 10px; }
+    .typing-section img { max-width: 100%; }
+
+    /* Badge row */
+    .badge-row {
+      display: flex; flex-wrap: wrap; justify-content: center;
+      gap: 10px; padding: 14px 20px;
+    }
+    .badge-row img { height: 28px; }
+
+    hr {
+      border: none;
+      border-top: 1px solid var(--border-color);
+      margin: 28px 20px;
+    }
+
+    /* Main content */
+    .content { padding: 0 24px; }
+
+    h2 {
+      font-size: 1.3rem; font-weight: 700;
+      color: var(--accent-cyan);
+      margin: 24px 0 16px;
+      display: flex; align-items: center; gap: 8px;
+    }
+    h3 {
+      font-size: 1rem; font-weight: 600;
+      color: var(--text-primary);
+      margin: 20px 0 10px;
+      text-align: center;
+    }
+
+    /* About Me section */
+    .about-me-grid {
+      display: flex; gap: 24px; align-items: flex-start;
+      flex-wrap: wrap;
+    }
+    .about-gif {
+      flex-shrink: 0;
+      width: 160px;
+    }
+    .about-gif img {
+      width: 160px; border-radius: 12px;
+      border: 2px solid var(--border-color);
+    }
+    .about-code {
+      flex: 1; min-width: 260px;
+    }
+    pre.yaml-block {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      padding: 16px 20px;
+      font-family: 'Fira Code', monospace;
+      font-size: 0.82rem;
+      color: var(--text-primary);
+      white-space: pre-wrap;
+      line-height: 1.8;
+    }
+    pre.yaml-block .key { color: var(--accent-cyan); }
+    pre.yaml-block .val { color: var(--accent-green); }
+    pre.yaml-block .str { color: #f2cc81; }
+
+    .bullet-list { list-style: none; margin-top: 14px; }
+    .bullet-list li {
+      padding: 5px 0;
+      font-size: 0.92rem;
+      color: var(--text-primary);
+    }
+
+    /* Collaboration table */
+    .collab-table { width: 100%; border-collapse: collapse; }
+    .collab-table td { padding: 6px 0; }
+    .collab-table td img { height: 32px; }
+    .browse-link {
+      margin-top: 12px; font-size: 0.9rem; color: var(--text-secondary);
+    }
+    .browse-link a { color: var(--accent-cyan); text-decoration: none; }
+    .browse-link a:hover { text-decoration: underline; }
+
+    /* Skill icons */
+    .skills-group { text-align: center; margin-bottom: 8px; }
+    .skills-group img { margin: 4px; }
+
+    /* Stats section */
+    .stats-row {
+      display: flex; gap: 16px; justify-content: center;
+      flex-wrap: wrap; margin-bottom: 16px;
+    }
+    .stats-row img {
+      border-radius: 12px;
+      max-width: 100%;
+    }
+    .stats-single { display: flex; justify-content: center; margin-bottom: 16px; }
+    .stats-single img { border-radius: 12px; max-width: 55%; }
+    .activity-graph { text-align: center; margin: 8px 0; }
+    .activity-graph img { width: 100%; border-radius: 10px; }
+
+    /* Social badges */
+    .social-row {
+      display: flex; flex-wrap: wrap; gap: 10px;
+      justify-content: center; padding: 10px 0;
+    }
+    .social-row img { height: 32px; }
+
+    /* Footer */
+    .footer { text-align: center; padding: 16px 0 0; }
+    .footer-tagline {
+      color: var(--text-secondary);
+      font-style: italic;
+      font-size: 0.92rem;
+      padding: 10px 0 24px;
+      text-align: center;
+    }
+
+    /* GitHub page chrome */
+    .page-chrome {
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 24px;
+      display: flex; align-items: center; gap: 12px;
+      font-size: 0.85rem; color: var(--text-secondary);
+    }
+    .page-chrome .repo-name { color: var(--accent-cyan); font-weight: 600; }
+    .page-chrome .divider { color: var(--border-color); }
+    .tab-bar {
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border-color);
+      padding: 0 24px;
+      display: flex; gap: 0;
+    }
+    .tab {
+      padding: 10px 16px;
+      font-size: 0.85rem; color: var(--text-secondary);
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+    }
+    .tab.active {
+      color: var(--text-primary);
+      border-bottom-color: var(--accent-cyan);
+      font-weight: 600;
+    }
+    .readme-label {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-bottom: none;
+      border-radius: 8px 8px 0 0;
+      margin: 16px 0 0;
+      padding: 10px 16px;
+      font-size: 0.85rem; color: var(--text-secondary);
+      display: flex; align-items: center; gap: 6px;
+    }
+    .readme-label span { color: var(--text-primary); font-weight: 600; }
+    .readme-box {
+      border: 1px solid var(--border-color);
+      border-radius: 0 0 8px 8px;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+
+<!-- GitHub Chrome -->
+<div class="page-chrome">
+  <svg height="16" width="16" viewBox="0 0 16 16" fill="#8b949e"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+  <span class="repo-name">KaviduRavishanHasaranga</span>
+  <span class="divider">/</span>
+  <span class="repo-name">KaviduRavishanHasaranga</span>
+  <span style="margin-left:auto; background:#238636; color:#fff; padding:3px 10px; border-radius:5px; font-size:0.78rem; cursor:pointer;">⭐ Star</span>
+</div>
+<div class="tab-bar">
+  <div class="tab active">📄 README</div>
+  <div class="tab">💻 Code</div>
+  <div class="tab">⚙️ Settings</div>
+</div>
+
+<div class="github-container">
+  <div style="padding: 0 16px;">
+    <div class="readme-label">📖 <span>README.md</span></div>
+    <div class="readme-box">
+
+      <!-- HEADER BANNER -->
+      <div class="header-banner">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavidu%20Ravishan%20Hasaranga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Header"/>
+      </div>
+
+      <!-- TYPING SVG -->
+      <div class="typing-section">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=👋+Hey+there%2C+welcome+to+my+GitHub!;💻+Building+cool+things+one+commit+at+a+time...;🚀+Always+learning%2C+always+growing!" alt="Typing SVG"/>
+      </div>
+
+      <!-- BADGES -->
+      <div class="badge-row">
+        <img src="https://komarev.com/ghpvc/?username=KaviduRavishanHasaranga&label=Profile+Views&color=6AD3F7&style=for-the-badge" alt="Views"/>
+        <img src="https://img.shields.io/github/followers/KaviduRavishanHasaranga?label=Followers&style=for-the-badge&color=6AD3F7&labelColor=1a1b27" alt="Followers"/>
+        <img src="https://img.shields.io/github/stars/KaviduRavishanHasaranga?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1b27" alt="Stars"/>
+      </div>
+
+      <hr/>
+
+      <div class="content">
+
+        <!-- ABOUT ME -->
+        <h2>🧑‍💻 About Me</h2>
+        <div class="about-me-grid">
+          <div class="about-gif">
+            <img src="https://github.com/KaviduRavishanHasaranga/KaviduRavishanHasaranga/blob/main/about_me.gif?raw=true" alt="About Me" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'"/>
+          </div>
+          <div class="about-code">
+            <pre class="yaml-block"><span class="key">Name      </span>: <span class="val">Kavidu Ravishan Hasaranga</span>
+<span class="key">Role      </span>: <span class="val">Software Engineering Undergraduate</span>
+<span class="key">Passion   </span>: <span class="val">Full-Stack Dev & Problem Solving</span>
+<span class="key">Email     </span>: <span class="str">kaviduravishanhasaranga@gmail.com</span>
+<span class="key">Status    </span>: <span class="val">Open to Collaborations 🤝</span></pre>
+            <ul class="bullet-list">
+              <li>🔭 Working on exciting <strong>Full-Stack</strong> projects</li>
+              <li>🌱 Exploring <strong>Spring Boot</strong>, <strong>React</strong> &amp; <strong>Cloud</strong></li>
+              <li>💬 Ask me about <strong>Java, PHP, JS, MySQL, MongoDB</strong></li>
+              <li>🧠 Love solving real-world problems through elegant code</li>
+              <li>⚡ I debug with <code style="background:#21262d;padding:2px 6px;border-radius:4px;font-family:'Fira Code';color:#A78BFA">console.log</code> and I'm not ashamed!</li>
+            </ul>
+          </div>
+        </div>
+
+        <hr/>
+
+        <!-- COLLABORATIONS -->
+        <h2>🤝 Notable Collaborations</h2>
+        <table class="collab-table">
+          <tr><td><img src="https://img.shields.io/badge/🤖%20GO4%20Multimodal%20AI%20Navigator-Retail%20%26%20Inventory-6AD3F7?style=for-the-badge&labelColor=1a1b27" alt="GO4"/></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/📚%20JSP%20Servlet-Student%20Management%20System-A78BFA?style=for-the-badge&labelColor=1a1b27" alt="Student Mgmt"/></td></tr>
+          <tr><td><img src="https://img.shields.io/badge/💎%20PHP%20Gems%20Selling-Website%20%26%20Admin%20Dashboard-F472B6?style=for-the-badge&labelColor=1a1b27" alt="Gems"/></td></tr>
+        </table>
+        <p class="browse-link">📁 <a href="https://github.com/KaviduRavishanHasaranga?tab=repositories">Browse all my repositories →</a></p>
+
+        <hr/>
+
+        <!-- TECH STACK -->
+        <h2>🛠️ Languages &amp; Technologies</h2>
+
+        <h3>🗣️ Languages</h3>
+        <div class="skills-group">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/></a>
+          <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/></a>
+          <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python"/></a>
+          <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java"/></a>
+          <a href="https://dart.dev/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Dart-Dark.svg" width="48" height="48" alt="Dart" title="Dart"/></a>
+          <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/C.svg" width="48" height="48" alt="C" title="C"/></a>
+          <a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/CPP.svg" width="48" height="48" alt="C++" title="C++"/></a>
+          <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" title="PHP"/></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/HTML.svg" width="48" height="48" alt="HTML5" title="HTML5"/></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/CSS.svg" width="48" height="48" alt="CSS3" title="CSS3"/></a>
+          <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" title="MySQL"/></a>
+        </div>
+
+        <h3>🌐 Frontend &amp; Mobile</h3>
+        <div class="skills-group">
+          <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/React-Dark.svg" width="48" height="48" alt="React" title="React"/></a>
+          <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter" title="Flutter"/></a>
+          <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+          <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Vite-Dark.svg" width="48" height="48" alt="Vite" title="Vite"/></a>
+        </div>
+
+        <h3>⚙️ Backend &amp; Databases</h3>
+        <div class="skills-group">
+          <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js"/></a>
+          <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express" title="Express"/></a>
+          <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/></a>
+          <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" title="MySQL"/></a>
+          <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/></a>
+          <a href="https://sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite"/></a>
+          <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/DotNet.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET"/></a>
+          <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Spring-Dark.svg" width="48" height="48" alt="Spring" title="Spring"/></a>
+        </div>
+
+        <h3>🔌 IoT &amp; Hardware</h3>
+        <div class="skills-group">
+          <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Arduino.svg" width="48" height="48" alt="Arduino" title="Arduino"/></a>
+        </div>
+
+        <h3>🔧 Tools &amp; Infrastructure</h3>
+        <div class="skills-group">
+          <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Git.svg" width="48" height="48" alt="Git" title="Git"/></a>
+          <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub"/></a>
+          <a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" title="Linux"/></a>
+          <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Ubuntu-Dark.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu"/></a>
+          <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Docker.svg" width="48" height="48" alt="Docker" title="Docker"/></a>
+          <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" title="VS Code"/></a>
+          <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Idea-Dark.svg" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
+          <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio" title="Android Studio"/></a>
+          <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Postman.svg" width="48" height="48" alt="Postman" title="Postman"/></a>
+          <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Azure-Dark.svg" width="48" height="48" alt="Azure" title="Azure"/></a>
+          <a href="https://www.digitalocean.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/DigitalOcean.svg" width="48" height="48" alt="DigitalOcean" title="DigitalOcean"/></a>
+        </div>
+
+        <h3>🎨 UI/UX Design</h3>
+        <div class="skills-group">
+          <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" title="Figma"/></a>
+          <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/XD.svg" width="48" height="48" alt="Adobe XD" title="Adobe XD"/></a>
+          <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Photoshop.svg" width="48" height="48" alt="Photoshop" title="Photoshop"/></a>
+          <a href="https://www.adobe.com/products/illustrator.html"><img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Illustrator.svg" width="48" height="48" alt="Illustrator" title="Illustrator"/></a>
+        </div>
+
+        <hr/>
+
+        <!-- STATS -->
+        <h2>📊 GitHub Statistics</h2>
+        <div class="stats-row">
+          <img src="https://github-readme-stats.vercel.app/api?username=KaviduRavishanHasaranga&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true&bg_color=0d1117&title_color=6AD3F7&icon_color=A78BFA&text_color=c9d1d9" style="width:48%;" alt="Stats"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviduRavishanHasaranga&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&stroke=6AD3F7&ring=A78BFA&fire=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=8b949e" style="width:48%;" alt="Streak"/>
+        </div>
+        <div class="stats-single">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KaviduRavishanHasaranga&theme=tokyonight&hide_border=true&border_radius=12&layout=compact&langs_count=10&bg_color=0d1117&title_color=6AD3F7&text_color=c9d1d9" alt="Top Languages"/>
+        </div>
+        <div class="activity-graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviduRavishanHasaranga&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6AD3F7&line=A78BFA&point=FFD700&area=true&area_color=6AD3F7" alt="Activity Graph"/>
+        </div>
+
+        <hr/>
+
+        <!-- CONNECT -->
+        <h2>🌐 Connect with Me</h2>
+        <div class="social-row">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </div>
+
+      </div><!-- /content -->
+
+      <!-- FOOTER BANNER -->
+      <div class="footer" style="margin-top:16px;">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" style="width:100%;display:block;" alt="Footer"/>
+      </div>
+      <p class="footer-tagline">🚀 Always striving to learn, build, and solve real-world problems through code.</p>
+
+    </div><!-- /readme-box -->
+  </div>
+</div><!-- /github-container -->
+
+</body>
+</html>
