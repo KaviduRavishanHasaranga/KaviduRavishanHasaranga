@@ -7,7 +7,6 @@
 - 👯 [GO4 Multimodal AI Assisted Real Time Retail & Local Inventory Navigator](https://github.com/KavishkaDulshan/Go4-Group-Project)
 - 👯 [JSP Servlet Student Management System](https://github.com/tharindu-nimesh/student-management-system)
 - 👯 [PHP Gems Selling Website](https://github.com/KaviduRavishanHasaranga/Web_Application_Final_Project_Group-R) + [Admin Dashboard](https://github.com/KaviduRavishanHasaranga/Admin-Dashboard-Group-R)
-- 🌱 Currently learning [Java Frameworks]()
 - 📫 Reach me at: [**kaviduravishanhasaranga@gmail.com**](mailto:kaviduravishanhasaranga@gmail.com)
 
 <h4 align="center">Feel free to explore my <a href="https://github.com/KaviduRavishanHasaranga?tab=repositories">GitHub repositories</a> for more projects.</h4>
