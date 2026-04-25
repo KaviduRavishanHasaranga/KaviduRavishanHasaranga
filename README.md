@@ -75,37 +75,74 @@
 
 ### 🗣️ Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Dart-Dark.svg" width="48" height="48" alt="Dart" title="Dart"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/C.svg" width="48" height="48" alt="C" title="C"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/CPP.svg" width="48" height="48" alt="C++" title="C++"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" title="PHP"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/HTML.svg" width="48" height="48" alt="HTML5" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/CSS.svg" width="48" height="48" alt="CSS3" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/MySQL-Dark.svg" width="48" height="48" alt="SQL" title="SQL"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>&nbsp;
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>&nbsp;
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" /></a>&nbsp;
+  <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" /></a>&nbsp;
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
 
 ### 🌐 Frontend & Mobile
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/React-Dark.svg" width="48" height="48" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter" title="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Vite-Dark.svg" width="48" height="48" alt="Vite" title="Vite"/>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>&nbsp;
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a>
 </p>
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express" title="Express"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/DotNet.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Spring-Dark.svg" width="48" height="48" alt="Java Servlets / Spring" title="Java Servlets / Spring"/>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp;
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
+  <a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&nbsp;
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" /></a>
 </p>
 
 ### 🔌 IoT & Hardware
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Arduino.svg" width="48" height="48" alt="Arduino" title="Arduino"/>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>
 </p>
 
 ### 🔧 Tools & Infrastructure
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Git.svg" width="48" height="48" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" title="Linux / Ubuntu"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Docker.svg" width="48" height="48" alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio" title="Android Studio"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Postman.svg" width="48" height="48" alt="Postman" title="Postman"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Azure-Dark.svg" width="48" height="48" alt="Microsoft Azure" title="Microsoft Azure"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/DigitalOcean.svg" width="48" height="48" alt="DigitalOcean" title="DigitalOcean"/>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>&nbsp;
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>&nbsp;
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>&nbsp;
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" /></a>&nbsp;
+  <a href="https://www.digitalocean.com/"><img src="https://skillicons.dev/icons?i=digitalocean" /></a>
 </p>
 
 ### 🎨 UI/UX Design
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/KaviduRavishanHasaranga/skill-icons/icons/XD.svg" width="48" height="48" alt="XD" title="Adobe XD"/>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp;
+  <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://skillicons.dev/icons?i=xd" /></a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>&nbsp;
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a>
 </p>
 
 ### 🔗 APIs & Services
 <p>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/> <img src="https://img.shields.io/badge/Tavily%20Search%20API-6AD3F7?style=for-the-badge&logo=searxng&logoColor=white" alt="Tavily Search API"/>
+  <a href="https://ai.google.dev/"><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/></a>&nbsp;
+  <a href="https://developers.google.com/maps"><img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API"/></a>&nbsp;
+  <a href="https://openai.com/api/"><img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/></a>&nbsp;
+  <a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/></a>&nbsp;
+  <a href="https://tavily.com/"><img src="https://img.shields.io/badge/Tavily%20Search%20API-6AD3F7?style=for-the-badge&logo=searxng&logoColor=white" alt="Tavily Search API"/></a>
 </p>
 
 </div>
