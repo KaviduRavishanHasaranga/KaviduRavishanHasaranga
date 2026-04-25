@@ -4,9 +4,7 @@
 </div>
 
 <!-- Animated Greeting -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=120&lines=👋+Hey+there%2C+welcome+to+my+GitHub!;💻+Building+cool+things+one+commit+at+a+time...;🚀+Always+learning%2C+always+growing!" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%92%BB+Building+cool+things+one+commit+at+a+time...;%F0%9F%9A%80+Always+learning%2C+always+growing!)](https://git.io/typing-svg)
 
 <br/>
 
