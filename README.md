@@ -41,31 +41,11 @@
 
 ## 🤝 Notable Collaborations
 
-<table>
-<tr>
-  <td>
-    <a href="https://github.com/KavishkaDulshan/Go4-Group-Project">
-      <img src="https://img.shields.io/badge/🤖%20GO4%20Multimodal%20AI%20Navigator-Retail%20%26%20Inventory-6AD3F7?style=for-the-badge&labelColor=1a1b27" alt="GO4"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/tharindu-nimesh/student-management-system">
-      <img src="https://img.shields.io/badge/📚%20JSP%20Servlet-Student%20Management%20System-A78BFA?style=for-the-badge&labelColor=1a1b27" alt="Student Mgmt"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/KaviduRavishanHasaranga/Web_Application_Final_Project_Group-R">
-      <img src="https://img.shields.io/badge/💎%20PHP%20Gems%20Selling-Website%20%26%20Admin%20Dashboard-F472B6?style=for-the-badge&labelColor=1a1b27" alt="Gems"/>
-    </a>
-  </td>
-</tr>
-</table>
+- 👯 [GO4 Multimodal AI Assisted Real Time Retail & Local Inventory Navigator](https://github.com/KavishkaDulshan/Go4-Group-Project)
+- 👯 [JSP Servlet Student Management System](https://github.com/tharindu-nimesh/student-management-system)
+- 👯 [PHP Gems Selling Website](https://github.com/KaviduRavishanHasaranga/Web_Application_Final_Project_Group-R) + [Admin Dashboard](https://github.com/KaviduRavishanHasaranga/Admin-Dashboard-Group-R)
 
-> 📁 **[Browse all my repositories →](https://github.com/KaviduRavishanHasaranga?tab=repositories)**
+> 📁 [Browse all my repositories →](https://github.com/KaviduRavishanHasaranga?tab=repositories)
 
 ---
 
