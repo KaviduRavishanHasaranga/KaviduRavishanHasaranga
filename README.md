@@ -3,7 +3,8 @@
 <h3 align="center">💻 Software Engineering Undergraduate | 👨‍💻 Full-Stack Developer | 🧠 Problem Solver</h3>
 
 <h4>My notable collaborative works and contributions:</h4>
-  
+
+- 👯 [GO4 Multimodal AI Assisted Real Time Retail & Local Inventory Navigator](https://github.com/KavishkaDulshan/Go4-Group-Project)
 - 👯 [JSP Servlet Student Management System](https://github.com/tharindu-nimesh/student-management-system)
 - 👯 [PHP Gems Selling Website](https://github.com/KaviduRavishanHasaranga/Web_Application_Final_Project_Group-R) + [Admin Dashboard](https://github.com/KaviduRavishanHasaranga/Admin-Dashboard-Group-R)
 - 🌱 Currently learning [Java Frameworks]()
