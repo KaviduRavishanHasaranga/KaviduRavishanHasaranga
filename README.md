@@ -75,37 +75,17 @@
 
 ### 🗣️ Languages
 <p>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Dart-Dark.svg" width="48" height="48" alt="Dart" title="Dart"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/C.svg" width="48" height="48" alt="C" title="C"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/CPP.svg" width="48" height="48" alt="C++" title="C++"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/CSS.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/MySQL-Dark.svg" width="48" height="48" alt="SQL" title="SQL"/>
+  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/TypeScript.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Dart-Dark.svg" width="48" height="48" alt="Dart" title="Dart"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/C.svg" width="48" height="48" alt="C" title="C"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/CPP.svg" width="48" height="48" alt="C++" title="C++"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/PHP-Dark.svg" width="48" height="48" alt="PHP" title="PHP"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/HTML.svg" width="48" height="48" alt="HTML5" title="HTML5"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/CSS.svg" width="48" height="48" alt="CSS3" title="CSS3"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/MySQL-Dark.svg" width="48" height="48" alt="SQL" title="SQL"/>
 </p>
 
 ### 🌐 Frontend & Mobile
 <p>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" title="React"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter" title="Flutter"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Vite-Dark.svg" width="48" height="48" alt="Vite" title="Vite"/>
+  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/React-Dark.svg" width="48" height="48" alt="React" title="React"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter" title="Flutter"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Vite-Dark.svg" width="48" height="48" alt="Vite" title="Vite"/>
 </p>
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express" title="Express"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Spring-Dark.svg" width="48" height="48" alt="Java Servlets / Spring" title="Java Servlets / Spring"/>
+  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" title="Node.js"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express" title="Express"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/MySQL-Dark.svg" width="48" height="48" alt="MySQL" title="MySQL"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/SQLite.svg" width="48" height="48" alt="SQLite" title="SQLite"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/DotNet.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Spring-Dark.svg" width="48" height="48" alt="Java Servlets / Spring" title="Java Servlets / Spring"/>
 </p>
 
 ### 🔌 IoT & Hardware
@@ -115,29 +95,17 @@
 
 ### 🔧 Tools & Infrastructure
 <p>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" title="Git"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" title="Linux / Ubuntu"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Docker.svg" width="48" height="48" alt="Docker" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio" title="Android Studio"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="Postman" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Microsoft Azure" title="Microsoft Azure"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/DigitalOcean.svg" width="48" height="48" alt="DigitalOcean" title="DigitalOcean"/>
+  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Git.svg" width="48" height="48" alt="Git" title="Git"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="GitHub" title="GitHub"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Linux-Dark.svg" width="48" height="48" alt="Linux" title="Linux / Ubuntu"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Docker.svg" width="48" height="48" alt="Docker" title="Docker"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" title="VS Code"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/AndroidStudio-Dark.svg" width="48" height="48" alt="Android Studio" title="Android Studio"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Postman.svg" width="48" height="48" alt="Postman" title="Postman"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Azure-Dark.svg" width="48" height="48" alt="Microsoft Azure" title="Microsoft Azure"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/DigitalOcean.svg" width="48" height="48" alt="DigitalOcean" title="DigitalOcean"/>
 </p>
 
 ### 🎨 UI/UX Design
 <p>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/XD.svg" width="48" height="48" alt="XD" title="Adobe XD"/>
+  <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/Figma-Dark.svg" width="48" height="48" alt="Figma" title="Figma"/> <img src="https://raw.githubusercontent.com/KaviduRavishanHasaranga/skill-icons/main/icons/XD.svg" width="48" height="48" alt="XD" title="Adobe XD"/>
 </p>
 
 ### 🔗 APIs & Services
-<p><img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Tavily%20Search%20API-6AD3F7?style=for-the-badge&logo=searxng&logoColor=white" alt="Tavily Search API"/>
+<p>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API"/> <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/> <img src="https://img.shields.io/badge/Tavily%20Search%20API-6AD3F7?style=for-the-badge&logo=searxng&logoColor=white" alt="Tavily Search API"/>
 </p>
 
 </div>
