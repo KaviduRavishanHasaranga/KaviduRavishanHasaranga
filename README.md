@@ -1,10 +1,6 @@
 <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavidu%20Ravishan%20Hasaranga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
-
-
-<!-- Animated Greeting -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2000&pause=1000&center=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%92%BB+Building+cool+things+one+commit+at+a+time...;%F0%9F%9A%80+Always+learning%2C+always+growing!)](https://git.io/typing-svg)
-
+  
 <br/>
 
 <!-- Profile Views & Social Badges -->
