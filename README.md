@@ -5,7 +5,7 @@
 
 <!-- Animated Greeting -->
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%92%BB+Building+cool+things+one+commit+at+a+time...;%F0%9F%9A%80+Always+learning%2C+always+growing!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hey+there%2C+welcome+to+my+GitHub!;%F0%9F%92%BB+Building+cool+things+one+commit+at+a+time...;%F0%9F%9A%80+Always+learning%2C+always+growing!" alt="Typing SVG" /></a>
 <div>
 <br/>
 
