@@ -1,7 +1,6 @@
 <!-- Animated Header Banner -->
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kavidu%20Ravishan%20Hasaranga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
-</div>
+
 
 <!-- Animated Greeting -->
 <div align="center">
