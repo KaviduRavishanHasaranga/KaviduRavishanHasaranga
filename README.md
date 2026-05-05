@@ -125,7 +125,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KaviduRavishanHasaranga&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&count_private=true&bg_color=0d1117&title_color=6AD3F7&icon_color=A78BFA&text_color=c9d1d9" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaviduRavishanHasaranga&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&stroke=6AD3F7&ring=A78BFA&fire=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=8b949e" alt="GitHub Streak"/>
 </div>
 
